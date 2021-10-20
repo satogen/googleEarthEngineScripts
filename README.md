@@ -6,6 +6,10 @@ grid_img_downloader.ipynb
 ### 月ごとに温度データをCSVファイルとしてダウンロード
 GEE_temp_downloader.ipynb
 
+下記を任意のポリゴンデータにすれば、実行できます
+```
+world_data = ee.FeatureCollection("users/halogen322/world_countries")
+```
 ### ポイントを中心としてポリゴンを作成し画像をダウンロード
 
 #### 画像をダウンロード
