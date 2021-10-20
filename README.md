@@ -1,5 +1,3 @@
-# googleEarthEngineScripts
-
 ## Google Earth Engine Python APIを用いたスクリプト
 
 ### グリッド状のものから画像をダウンロード
